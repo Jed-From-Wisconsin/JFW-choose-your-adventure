@@ -1,4 +1,4 @@
-# 📡 SCENE 1A - Day Raid
+# Day Raid
 
 You decide to break into the vault during the day- this means breaking in while employees are doing their jobs, and customers using the bank's services. A risky endeavor, but it also means you could use an employee to open the bank vault- no fancy explosives needed (or thermal drills that need to be repaired every 15 seconds, for that matter). 
 
