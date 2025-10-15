@@ -6,5 +6,5 @@ You walk up to a bank manager who's operating one of the teller stations, and pa
 Before you can start putting money in, you have to decide what you'll do with the manager- you possess handcuffs, but if you left him uncuffed, people wouldn't be apprehensive if they saw you taking money- they'd just assume he was supervising a wealthy customer.
 You could handcuff him to a table, which would prevent him from escaping if you took your eyes off him for too long, but if someone sees that your cover would definitely be blown.
 
-[Handcuff the Teller](./Scene30DayHackerHandcuff)
-[Leave him be](./Scene31DayHackerTellerFree)
+[Handcuff the Manager](./Scene30DayHackerHandcuff)
+[Leave the Manager Be](./Scene31DayHackerTellerFree)
