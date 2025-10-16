@@ -1,4 +1,4 @@
-# Full Team
+# 💻💪 Full Team
 
 You decide to hire both a hacker and ground team. As you and your collegeaus walked in and made themselves known, several bank employees attempted to sound the alarm, but your hacker had skillfully disabled all the security systems rendering them moot. 
 
