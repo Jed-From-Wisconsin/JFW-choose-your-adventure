@@ -1,4 +1,4 @@
-# You work alone
+# 💰 You work alone
 
 You decide to pull this thing off by yourself- if you could manage it, you'd be leaving that bank with a pilot's salary in your pockets.
 
