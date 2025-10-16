@@ -1,4 +1,4 @@
-# Day Raid - Hacker
+# Hire the Hacker
 
 You settle on hiring a hacker to disable the bank's security system. As such, you are given a lot more time to act before police get suspicious- but that doesn't mean it's smooth sailing. If someone gets suspicious and calls the cops on their own phone, the whole thing could be a bust.
 You walk up to a bank manager who's operating one of the teller stations, and pass him a note demanding him to open the vault, on account of a weapon you currently possess. You pass as a wealthy patron as you are escorted to the vault, shutting down any suspicion for the time being.
