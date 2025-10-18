@@ -8,6 +8,6 @@ You get the thought that maybe it might be less risky to go by yourself, and the
 
 You think for a while, then make your decision:
 
-1. [Hire a hacker to disable security systems](./Scene2DayHacker)
-2. [Hire a small team to help sneak in and take down any gaurds if necessary](./Scene21DayGround)
-3. [Rob the bank alone](./Scene23DayAlone)
+1. [Hire a hacker to disable security systems](./scene5A)
+2. [Hire a small team to help sneak in and take down any gaurds if necessary](./scene5B)
+3. [Rob the bank alone](./scene5C)
