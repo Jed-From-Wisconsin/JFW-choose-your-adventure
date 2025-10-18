@@ -6,5 +6,5 @@ You guys get to the vents, crawling one by one. Your boy at the front noticed a 
 
 Which do you cut?
 
-1. [Red](./scene7A)
-2. [Blue](./scene7B)
+1. [Red](./scene7A.md)
+2. [Blue](./scene7B.md)

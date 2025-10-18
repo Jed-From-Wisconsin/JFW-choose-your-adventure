@@ -4,4 +4,4 @@ ou go through the staff only door, you go through the hallways, knowing the layo
 
 No money for you!
 
-1. [Try Again](./scene1)
+1. [Try Again](./scene1.md)

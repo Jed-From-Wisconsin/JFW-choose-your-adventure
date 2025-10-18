@@ -4,4 +4,4 @@ You decided to go through the vents. You climb to the top of the bank like origi
 
 No money for you!
 
-[Try again](./scene1)
+[Try again](./scene1.md)

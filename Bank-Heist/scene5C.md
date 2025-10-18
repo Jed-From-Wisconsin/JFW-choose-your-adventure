@@ -8,4 +8,4 @@ You wake up in the hospital, your leg where you got shot was infected and they h
 
 No money for you! (And no leg either)
 
-1. [try again](./scene1)
+1. [try again](./scene1.md)
