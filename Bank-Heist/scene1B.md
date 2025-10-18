@@ -9,5 +9,5 @@ You get the thought that maybe it might be less risky to go by yourself, and the
 You think for a while, then make your decision:
 
 1. [ Hire a hacker](./scene5A.md)
-2. [Hire a small team to help sneak in and take down any gaurds if necessary](./scene5B)
-3. [Rob the bank alone](./scene5C)
+2. [Hire a small team to help sneak in and take down any gaurds if necessary](./scene5B.md)
+3. [Rob the bank alone](./scene5C.md)
